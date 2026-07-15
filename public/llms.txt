@@ -1,0 +1,131 @@
+# Pini_Ai — Generative Engine Optimization Map
+
+> Pini_Ai is an Israeli AI education platform with a futuristic, high-tech brand identity designed to make artificial intelligence accessible to everyone. The platform offers a comprehensive range of Hebrew-language courses for all skill levels, from complete beginners to advanced learners. The brand aesthetic is sleek, modern, and luxurious — combining deep blues, purples, white, and black with smooth animations, glowing buttons, and a premium tech feel reminiscent of leading global AI companies. The platform emphasizes practical, hands-on learning with ongoing updates and professional support.
+
+---
+
+## Pages
+
+### בית
+https://pini-ai-282ced2f.zappy5.app
+מבוא לבינה מלאכותית שלא הכרתם. קורסים בעברית למתחילים ומתקדמים, למידה פרקטית ועדכונים שוטפים. הצטרפו למהפכת ה-AI עוד היום!
+
+### אודות
+https://pini-ai-282ced2f.zappy5.app/about
+הכירו את החזון של Pini_Ai: להנגיש בינה מלאכותית לכולם בעברית. צללו לעולם שלנו עם גישה חדשנית, תמיכה מקצועית וטכנולוגיה פורצת דרך שמשנה מציאות.
+
+### מסלולי למידה
+https://pini-ai-282ced2f.zappy5.app/learning-paths
+מסלולי למידה מקיפים בעברית מ-0 למקצוענות. התקדמו בקצב שלכם עם best online machine learning courses, תרגול מעשי וליווי צמוד. המסע שלכם מתחיל כאן.
+
+### שאלות נפוצות
+https://pini-ai-282ced2f.zappy5.app/faq
+מבוא לבינה מלאכותית, התאמת קורסים ועד תמיכה טכנית – קבלו תשובות מהירות לשאלות הכי נפוצות. כל המידע שאתם צריכים לפני שמתחילים את המסע.
+
+### צור קשר
+https://pini-ai-282ced2f.zappy5.app/contact
+מוכנים לצעד הראשון? צרו קשר עם צוות Pini_Ai עוד היום. אנחנו כאן לייעוץ, הכוונה ובחירת המסלול המושלם. העתיד מחכה לכם – בואו נדבר.
+
+### Cart
+https://pini-ai-282ced2f.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://pini-ai-282ced2f.zappy5.app/checkout
+תשלום
+
+### Login
+https://pini-ai-282ced2f.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://pini-ai-282ced2f.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://pini-ai-282ced2f.zappy5.app/order-success
+תודה שנרשמת לקורס
+
+### תודה שפניתם אלינו
+https://pini-ai-282ced2f.zappy5.app/thank-you
+Pini_Ai - תודה שפניתם אלינו
+
+### Courses
+https://pini-ai-282ced2f.zappy5.app/courses
+Browse all available courses.
+
+### Course Category
+https://pini-ai-282ced2f.zappy5.app/category/:slug
+Browse courses in this category.
+
+### Course Detail
+https://pini-ai-282ced2f.zappy5.app/courses/:slug
+Course details and curriculum.
+
+### Lesson
+https://pini-ai-282ced2f.zappy5.app/lesson/:lessonId
+Lesson player.
+
+### My Learning
+https://pini-ai-282ced2f.zappy5.app/my-learning
+Your enrolled courses and progress.
+
+### Certificate
+https://pini-ai-282ced2f.zappy5.app/certificate/:code
+Verify a course completion certificate.
+
+## Legal & Policy
+
+### Privacy Policy
+https://pini-ai-282ced2f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://pini-ai-282ced2f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://pini-ai-282ced2f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Pini_Ai
+Pini_Ai is an Israeli AI education platform with a futuristic, high-tech brand identity designed to make artificial intelligence accessible to everyone. The platform offers a comprehensive range of Hebrew-language courses for all skill levels, from complete beginners to advanced learners. The brand aesthetic is sleek, modern, and luxurious — combining deep blues, purples, white, and black with smooth animations, glowing buttons, and a premium tech feel reminiscent of leading global AI companies. The platform emphasizes practical, hands-on learning with ongoing updates and professional support.
+
+## Services/Products
+- מבוא לבינה מלאכותית
+- ChatGPT למתחילים
+- יצירת תמונות באמצעות AI
+- בניית אתרים עם AI
+- אוטומציות חכמות
+- יצירת אפליקציות עם AI
+- כתיבת פרומפטים מקצועיים
+- שימוש בכלי AI לעבודה וללימודים
+
+## Target Audience
+- מתחילים ומתקדמים בכל גיל המעוניינים ללמוד בינה מלאכותית
+- מתחילים בתחום ה-AI
+- אנשי מקצוע בתחום הטכנולוגיה
+- סטודנטים אקדמיים
+
+## Industry
+Online Education / AI Training
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://pini-ai-282ced2f.zappy5.app/sitemap.xml
+- Robots: https://pini-ai-282ced2f.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://pini-ai-282ced2f.zappy5.app/llms-full.txt
+- Products (JSON): https://pini-ai-282ced2f.zappy5.app/products.json
+- Products (Google Merchant RSS): https://pini-ai-282ced2f.zappy5.app/product-feed.xml
