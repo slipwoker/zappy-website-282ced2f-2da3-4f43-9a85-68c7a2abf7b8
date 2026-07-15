@@ -7,85 +7,85 @@
 ## Pages
 
 ### בית
-https://pini-ai-282ced2f.zappy5.app
+https://example.com
 מבוא לבינה מלאכותית שלא הכרתם. קורסים בעברית למתחילים ומתקדמים, למידה פרקטית ועדכונים שוטפים. הצטרפו למהפכת ה-AI עוד היום!
 
 ### אודות
-https://pini-ai-282ced2f.zappy5.app/about
+https://example.com/about
 הכירו את החזון של Pini_Ai: להנגיש בינה מלאכותית לכולם בעברית. צללו לעולם שלנו עם גישה חדשנית, תמיכה מקצועית וטכנולוגיה פורצת דרך שמשנה מציאות.
 
 ### מסלולי למידה
-https://pini-ai-282ced2f.zappy5.app/learning-paths
+https://example.com/learning-paths
 מסלולי למידה מקיפים בעברית מ-0 למקצוענות. התקדמו בקצב שלכם עם best online machine learning courses, תרגול מעשי וליווי צמוד. המסע שלכם מתחיל כאן.
 
 ### שאלות נפוצות
-https://pini-ai-282ced2f.zappy5.app/faq
+https://example.com/faq
 מבוא לבינה מלאכותית, התאמת קורסים ועד תמיכה טכנית – קבלו תשובות מהירות לשאלות הכי נפוצות. כל המידע שאתם צריכים לפני שמתחילים את המסע.
 
 ### צור קשר
-https://pini-ai-282ced2f.zappy5.app/contact
+https://example.com/contact
 מוכנים לצעד הראשון? צרו קשר עם צוות Pini_Ai עוד היום. אנחנו כאן לייעוץ, הכוונה ובחירת המסלול המושלם. העתיד מחכה לכם – בואו נדבר.
 
 ### Cart
-https://pini-ai-282ced2f.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://pini-ai-282ced2f.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://pini-ai-282ced2f.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://pini-ai-282ced2f.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://pini-ai-282ced2f.zappy5.app/order-success
+https://example.com/order-success
 תודה שנרשמת לקורס
 
 ### תודה שפניתם אלינו
-https://pini-ai-282ced2f.zappy5.app/thank-you
+https://example.com/thank-you
 Pini_Ai - תודה שפניתם אלינו
 
 ### Courses
-https://pini-ai-282ced2f.zappy5.app/courses
+https://example.com/courses
 Browse all available courses.
 
 ### Course Category
-https://pini-ai-282ced2f.zappy5.app/category/:slug
+https://example.com/category/:slug
 Browse courses in this category.
 
 ### Course Detail
-https://pini-ai-282ced2f.zappy5.app/courses/:slug
+https://example.com/courses/:slug
 Course details and curriculum.
 
 ### Lesson
-https://pini-ai-282ced2f.zappy5.app/lesson/:lessonId
+https://example.com/lesson/:lessonId
 Lesson player.
 
 ### My Learning
-https://pini-ai-282ced2f.zappy5.app/my-learning
+https://example.com/my-learning
 Your enrolled courses and progress.
 
 ### Certificate
-https://pini-ai-282ced2f.zappy5.app/certificate/:code
+https://example.com/certificate/:code
 Verify a course completion certificate.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://pini-ai-282ced2f.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://pini-ai-282ced2f.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://pini-ai-282ced2f.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -124,8 +124,8 @@ Online Education / AI Training
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://pini-ai-282ced2f.zappy5.app/sitemap.xml
-- Robots: https://pini-ai-282ced2f.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://pini-ai-282ced2f.zappy5.app/llms-full.txt
-- Products (JSON): https://pini-ai-282ced2f.zappy5.app/products.json
-- Products (Google Merchant RSS): https://pini-ai-282ced2f.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
